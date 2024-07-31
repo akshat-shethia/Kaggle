@@ -1,0 +1,16 @@
+scikit-learn
+pandas
+ipykernel
+seaborn
+memory_profiler
+matplotlib
+statsmodels
+plotly
+xgboost
+nltk
+gensim
+kaggle
+ydata-profiling
+ipywidgets
+xgboost
+catboost
