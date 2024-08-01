@@ -13,4 +13,3 @@ The folder names in this repository correspond to the competition names on Kaggl
 ## Getting Started
 
 To get started with any of the projects, clone this repository and navigate to the relevant directory:
-
